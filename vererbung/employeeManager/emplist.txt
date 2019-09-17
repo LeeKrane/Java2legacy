@@ -1,0 +1,5 @@
+C:Huber:Fritz:210.80
+T:Schmidt:Elisabeth:17.80
+P:Fischer:Gerhard:25000
+C:Eberhart:Eva:312
+T:M¨uller:Klaus:24.50

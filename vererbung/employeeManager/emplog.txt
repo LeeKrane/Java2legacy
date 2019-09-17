@@ -1,0 +1,26 @@
+C:\Data\IntelliJ\Projects\PrivateLaborJ\src\school\vererbung\employeeManager\emplist.txt: Mon May 27 11:14:05 CEST 2019
+C:Huber:Fritz:210.80 erfolgreich hinzugefügt
+T:Schmidt:Elisabeth:17.80 erfolgreich hinzugefügt
+P:Fischer:Gerhard:25000 erfolgreich hinzugefügt
+C:Eberhart:Eva:312 erfolgreich hinzugefügt
+T:M¨uller:Klaus:24.50 erfolgreich hinzugefügt
+C:\Data\IntelliJ\Projects\PrivateLaborJ\src\school\vererbung\employeeManager\emplist2.txt: Mon May 27 11:14:05 CEST 2019
+C:Huber:Fritz:210.80 erfolgreich hinzugefügt
+school.chif2.vererbung.employeeManager.EmployeeDataCorruptedException: Negativer Entlohnungswert -17.80: T:Schmidt:Elisabeth:-17.80
+school.chif2.vererbung.employeeManager.EmployeeDataCorruptedException: Kein Doublewert xx: P:Fischer:Gerhard:xx
+school.chif2.vererbung.employeeManager.EmployeeDataCorruptedException: Falscher Employeetyp v: v:Eberhart:Eva:312
+T:Mueller:Klaus:24.50 erfolgreich hinzugefügt
+school.chif2.vererbung.employeeManager.EmployeeDataCorruptedException: Keine 4 Token: T:Bauer:Richard:Franz:19.5
+C:\Data\IntelliJ\Projects\PrivateLaborJ\src\school\vererbung\employeeManager\emplist.txt: Fri Jun 07 12:21:45 CEST 2019
+C:Huber:Fritz:210.80 erfolgreich hinzugefügt
+T:Schmidt:Elisabeth:17.80 erfolgreich hinzugefügt
+P:Fischer:Gerhard:25000 erfolgreich hinzugefügt
+C:Eberhart:Eva:312 erfolgreich hinzugefügt
+T:M¨uller:Klaus:24.50 erfolgreich hinzugefügt
+C:\Data\IntelliJ\Projects\PrivateLaborJ\src\school\vererbung\employeeManager\emplist2.txt: Fri Jun 07 12:21:45 CEST 2019
+C:Huber:Fritz:210.80 erfolgreich hinzugefügt
+school.chif2.vererbung.employeeManager.EmployeeDataCorruptedException: Negativer Entlohnungswert -17.80: T:Schmidt:Elisabeth:-17.80
+school.chif2.vererbung.employeeManager.EmployeeDataCorruptedException: Kein Doublewert xx: P:Fischer:Gerhard:xx
+school.chif2.vererbung.employeeManager.EmployeeDataCorruptedException: Falscher Employeetyp v: v:Eberhart:Eva:312
+T:Mueller:Klaus:24.50 erfolgreich hinzugefügt
+school.chif2.vererbung.employeeManager.EmployeeDataCorruptedException: Keine 4 Token: T:Bauer:Richard:Franz:19.5

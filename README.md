@@ -2,4 +2,4 @@
 #### If you need help, leave a message in the "Issues" tab.
 ##### Email: godfist.leekrane@gmail.com
 In this Repository you will find all the Java Labors and Homeworks from the 2nd Grade, written by me.
-They Should all be graded with a 1 or maybe a 2.
+They should all be graded with a 1 or maybe a 2.

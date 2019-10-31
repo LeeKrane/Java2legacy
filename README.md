@@ -1,4 +1,4 @@
-# Java2
+# Java2legacy
 #### Version: 2018/19
 #### To see the newer Version (2019/20) go to the JAVA2 repository.
 ##### Email: godfist.leekrane@gmail.com
